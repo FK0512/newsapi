@@ -1,0 +1,53 @@
+/* index.css */
+
+.mb-4 {
+  margin-bottom: 1rem; /* Example change */
+}
+
+.text-xl {
+  font-size: 1.25rem; /* Example change */
+  font-weight: 600; /* Example change */
+  color: #333; /* Example change */
+}
+
+.w-full {
+  width: 100%; /* Example change */
+}
+
+.h-48 {
+  height: 12rem; /* Example change */
+}
+
+.object-cover {
+  object-fit: cover; /* Example change */
+}
+
+.bg-gray-200 {
+  background-color: #f2f2f2; /* Example change */
+}
+
+.flex {
+  display: flex; /* Example change */
+}
+
+.items-center {
+  align-items: center; /* Example change */
+}
+
+.justify-center {
+  justify-content: center; /* Example change */
+}
+
+.ml-2 {
+  margin-left: 0.5rem; /* Example change */
+}
+
+.text-red-500 {
+  color: #dc2626; /* Example change */
+}
+
+.text-green-500 {
+  color: #059669; /* Example change */
+}
+
+/* Add more styles as needed */
